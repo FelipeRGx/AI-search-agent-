@@ -81,25 +81,3 @@ Once the chatbot has gathered the relevant information, it proceeds to the final
 
 To get started with prompt engineering, try modifying this template and observe how the changes impact the chatbot's behavior. You can change the bot's name, sentiment, or the available tools. Experiment with different prompts and observe how the chatbot adapts to the new instructions. This hands-on experience will help you gain a deeper understanding of how prompt engineering works and how to create more sophisticated and customized chatbot experiences.
 
-
-## License 📃
-This project is licensed under the terms of the Apache 2.0 License.
-
-### Apache License
-
-Version 2.0, January 2004
-http://www.apache.org/licenses/
-
-Copyright 2023 Kyle J. Tobin
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
