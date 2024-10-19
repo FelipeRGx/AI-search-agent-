@@ -1,4 +1,6 @@
-# LangChain 🦜🔗 Search Bot
+#AI-search-agent with LLM 
+
+LangChain 🦜🔗 Search Bot
 
 ## Introduction
 Welcome to the LangChain  Search Bot repository! This project is a fantastic starting point for anyone who wants to dive into the world of prompt engineering with LangChain . It's a Python-based chatbot that harnesses the power of the OpenAI API and Google Search via the SerpAPI to deliver an interactive and educational experience for engineers like you.
